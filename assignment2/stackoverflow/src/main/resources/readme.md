@@ -1,0 +1,1 @@
+Download the stackoverflow.csv from http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv before running assignment2 and place them in resources folder

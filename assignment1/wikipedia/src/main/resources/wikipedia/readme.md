@@ -1,0 +1,1 @@
+Download the wikipedia.dat file from http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat before running this assignment
